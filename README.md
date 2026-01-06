@@ -21,6 +21,26 @@ This lab simulates that environment using Microsoft Entra ID.
 - Sign-in Logs
 - Audit Logs
 
+## 🗂️ Repository Structure
+```
+azure-entra-identity-lab/
+├── README.md
+├── walkthrough.md
+├── architecture/
+│   └── entra-identity-architecture.png
+└── screenshots/
+    ├── users-created.png
+    ├── groups-created.png
+    ├── it-admins-members.png
+    ├── helpdesk-members.png
+    ├── developers-members.png
+    ├── it-admin-effective-role.png
+    ├── helpdesk-effective-role.png
+    ├── first-time-signon.png
+    ├── sign-in-logs.png
+    └── audit-logs.png
+```
+
 ## Architecture
 ![Architecture Diagram](architecture/entra-identity-diagram.png)
 
